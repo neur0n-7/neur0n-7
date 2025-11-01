@@ -5,7 +5,10 @@
 
 <h3 align="left">Stats:</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neur0n-7&theme=github_dark" height="180">
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neur0n-7&theme=github_dark" height="150">
+</div>
 
 
 <hr>
