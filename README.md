@@ -3,13 +3,9 @@
 
 <hr>
 
-### Stats:
+### Stats 📈:
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neur0n-7&theme=github_dark" height="150">
-</div>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" height="150">
 
 <hr>
 
