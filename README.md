@@ -3,13 +3,9 @@
 
 <hr>
 
-### Stats 📈:
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neur0n-7&theme=github_dark" height="150">
 
 <hr>
-
-### Tools & Languages 🛠️
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
